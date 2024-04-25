@@ -8,5 +8,8 @@
     "start": "json-server --watch db.json"
   },
   "author": "laharsh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
 }
